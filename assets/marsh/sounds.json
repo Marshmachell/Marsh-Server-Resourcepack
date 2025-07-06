@@ -1,0 +1,10 @@
+{
+    "scheming_weasel": {
+        "sounds": [
+            {
+                "name": "marsh:records/scheming_weasel",
+                "stream": true
+            }
+        ]
+    }
+}

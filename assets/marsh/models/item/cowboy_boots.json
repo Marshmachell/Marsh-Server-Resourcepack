@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "marsh:item/armor/cowboy_boots/item_tint",
+    "layer1": "marsh:item/armor/cowboy_boots/item"
+  }
+}

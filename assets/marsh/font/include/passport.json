@@ -1,0 +1,17 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "marsh:font/passport/default.png",
+            "ascent": 8,
+            "height": 62,
+            "chars": ["0"]
+        },
+        {
+            "type": "bitmap",
+            "file": "marsh:font/passport/space.png",
+            "ascent": 7,
+            "chars": [" "]
+        }
+    ]
+}

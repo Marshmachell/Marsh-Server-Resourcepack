@@ -1,0 +1,15 @@
+{
+    "layers": {
+        "humanoid": [
+            {
+                "dyeable": {
+                    "color_when_undyed": -6265536
+                },
+                "texture": "marsh:cowboy_boots"
+            },
+            {
+                "texture": "marsh:cowboy_boots_overlay"
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "providers": [
+        {
+            "type": "reference",
+            "id": "marsh:include/tab/humanoid"
+        },
+        {
+            "type": "reference",
+            "id": "marsh:include/tab/technical"
+        },
+        {
+            "type": "reference",
+            "id": "marsh:include/tab/revolver"
+        }
+    ]
+}

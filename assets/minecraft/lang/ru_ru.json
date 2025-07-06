@@ -1,0 +1,50 @@
+{
+    "marsh.item.musician_bundle": "Мешок музыканта",
+    "marsh.item.straw_hat": "Соломенная шляпа",
+    "marsh.item.cowboy_hat": "Ковбойская шляпа",
+    "marsh.item.cowboy_boots": "Ковбойские сапоги",
+    "marsh.item.fisherman_hat": "Шляпа рыбака",
+    
+    "marsh.item.armored_black_harness": "Бронированная чёрная упряжь",
+    "marsh.item.armored_blue_harness": "Бронированная синяя упряжь",
+    "marsh.item.armored_brown_harness": "Бронированная коричневая упряжь",
+    "marsh.item.armored_cyan_harness": "Бронированная бирюзовая упряжь",
+    "marsh.item.armored_gray_harness": "Бронированная серая упряжь",
+    "marsh.item.armored_green_harness": "Бронированная зелёная упряжь",
+    "marsh.item.armored_light_blue_harness": "Бронированная голубая упряжь",
+    "marsh.item.armored_light_gray_harness": "Бронированная светло-серая упряжь",
+    "marsh.item.armored_lime_harness": "Бронированная лаймовая упряжь",
+    "marsh.item.armored_magenta_harness": "Бронированная пурпурная упряжь",
+    "marsh.item.armored_orange_harness": "Бронированная оранжевая упряжь",
+    "marsh.item.armored_pink_harness": "Бронированная розовая упряжь",
+    "marsh.item.armored_purple_harness": "Бронированная фиолетовая упряжь",
+    "marsh.item.armored_red_harness": "Бронированная красная упряжь",
+    "marsh.item.armored_white_harness": "Бронированная белая упряжь",
+    "marsh.item.armored_yellow_harness": "Бронированная жёлтая упряжь",
+
+    "marsh.advancements.musician.root.title": "Музыкант",
+    "marsh.advancements.musician.root.description": "Заполучите мешок музыканта",
+    
+    "marsh.advancements.musician.aaron_cherof.precipice.title": "Аарон Шероф - Precipice",
+    "marsh.advancements.musician.aaron_cherof.precipice.description": "",
+    "marsh.advancements.musician.aaron_cherof.relic.title": "Аарон Шероф - Relic",
+    "marsh.advancements.musician.aaron_cherof.relic.description": "",
+    
+    "marsh.advancements.musician.amos_roddy.tears.title": "Эймос Родди - Tears",
+    "marsh.advancements.musician.amos_roddy.tears.description": "",
+    
+    "marsh.advancements.musician.lena_raine.creator_music_box.title": "Лена Рейн - Creator (Музыкальная шкатулка)",
+    "marsh.advancements.musician.lena_raine.creator_music_box.description": "",
+    "marsh.advancements.musician.lena_raine.creator.title": "Лена Рейн - Creator",
+    "marsh.advancements.musician.lena_raine.creator.description": "",
+    "marsh.advancements.musician.lena_raine.otherside.title": "Лена Рейн - Otherside",
+    "marsh.advancements.musician.lena_raine.otherside.description": "",
+    "marsh.advancements.musician.lena_raine.pigstep.title": "Лена Рейн - Pigstep",
+    "marsh.advancements.musician.lena_raine.pigstep.description": "",
+
+    "marsh.advancements.musician.marsh_server.scheming_weasel.title": "Кевин Маклауд - Scheming Weasel",
+    "marsh.advancements.musician.marsh_server.scheming_weasel.description": "",
+    
+    "marsh.advancements.musician.samuel_aberg.5.title": "Самуель Оберг - 5",
+    "marsh.advancements.musician.samuel_aberg.5.description": ""
+}
