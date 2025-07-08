@@ -4,6 +4,9 @@
     "marsh.item.cowboy_hat": "Cowboy Hat",
     "marsh.item.cowboy_boots": "Cowboy Boots",
     "marsh.item.fisherman_hat": "Fisherman Hat",
+    "marsh.item.nagant": "Revolver",
+    "marsh.item.last_tear": "Last Tear",
+    "marsh.item.last_tear.lore": "The last tear of %s..",
     
     "marsh.item.armored_black_harness": "Armored Black Harness",
     "marsh.item.armored_blue_harness": "Armored Blue Harness",

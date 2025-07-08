@@ -4,6 +4,9 @@
     "marsh.item.cowboy_hat": "Ковбойская шляпа",
     "marsh.item.cowboy_boots": "Ковбойские сапоги",
     "marsh.item.fisherman_hat": "Шляпа рыбака",
+    "marsh.item.nagant": "Револьвер",
+    "marsh.item.last_tear": "Последняя слеза",
+    "marsh.item.last_tear.lore": "Последняя слеза %s..",
     
     "marsh.item.armored_black_harness": "Бронированная чёрная упряжь",
     "marsh.item.armored_blue_harness": "Бронированная синяя упряжь",

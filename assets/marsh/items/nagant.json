@@ -1,0 +1,77 @@
+{
+  "model": {
+    "type": "minecraft:condition",
+    "on_false": {
+      "type": "minecraft:composite",
+      "models": [
+        {
+          "type": "minecraft:select",
+          "property": "minecraft:charge_type",
+          "cases": [
+            {
+              "when": "arrow",
+              "model": {
+                "type": "minecraft:condition",
+                "property": "minecraft:keybind_down",
+                "keybind": "key.sneak",
+                "on_true": {
+                  "type": "minecraft:model",
+                  "model": "marsh:item/nagant/nagant_scoped"
+                },
+                "on_false": {
+                  "type": "minecraft:model",
+                  "model": "marsh:item/nagant/nagant_charged"
+                }
+              }
+            },
+            {
+              "when": "rocket",
+              "model": {
+                "type": "minecraft:condition",
+                "property": "minecraft:keybind_down",
+                "keybind": "key.sneak",
+                "on_true": {
+                  "type": "minecraft:model",
+                  "model": "marsh:item/nagant/nagant_scoped"
+                },
+                "on_false": {
+                  "type": "minecraft:model",
+                  "model": "marsh:item/nagant/nagant_charged"
+                }
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "marsh:item/nagant/nagant"
+          }
+        }
+      ]
+    },
+    "on_true": {
+      "type": "minecraft:range_dispatch",
+      "entries": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "marsh:item/nagant/nagant_pulling_1"
+          },
+          "threshold": 0.58
+        },
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "marsh:item/nagant/nagant_pulling_2"
+          },
+          "threshold": 1
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "marsh:item/nagant/nagant_pulling_0"
+      },
+      "property": "minecraft:crossbow/pull"
+    },
+    "property": "minecraft:using_item"
+  }
+}
