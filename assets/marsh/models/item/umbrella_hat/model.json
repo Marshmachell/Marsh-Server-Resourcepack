@@ -1,0 +1,77 @@
+{
+	"credit": "Made by Falanta Fantomo with Blockbench",
+	"textures": {
+		"particle": "marsh:item/armor/umbrella_hat/model",
+		"main": "marsh:item/armor/umbrella_hat/model"
+	},
+	"elements": [
+		{
+			"from": [3.25, 3.25, 3.25],
+			"to": [12.75, 12.75, 12.75],
+			"faces": {
+				"north": {"uv": [16, 4.5, 13.75, 6.75], "texture": "#main"},
+				"east": {"uv": [13.75, 2.25, 16, 4.5], "texture": "#main"},
+				"south": {"uv": [16, 4.5, 13.75, 6.75], "texture": "#main"},
+				"west": {"uv": [16, 2.25, 13.75, 4.5], "texture": "#main"},
+				"up": {"uv": [13.75, 0, 16, 2.25], "texture": "#main"}
+			}
+		},
+		{
+			"from": [1.5, 11, 1.5],
+			"to": [14.5, 15, 14.5],
+			"faces": {
+				"north": {"uv": [0, 3.25, 3.25, 4.25], "texture": "#main"},
+				"east": {"uv": [0, 6.25, 3.25, 7.25], "texture": "#main"},
+				"south": {"uv": [0, 5.25, 3.25, 6.25], "texture": "#main"},
+				"west": {"uv": [0, 4.25, 3.25, 5.25], "texture": "#main"},
+				"up": {"uv": [0, 0, 3.25, 3.25], "texture": "#main"}
+			}
+		},
+		{
+			"from": [1.5, 15, 1.5],
+			"to": [14.5, 11, 14.5],
+			"faces": {
+				"north": {"uv": [3.25, 4.25, 6.5, 3.25], "texture": "#main"},
+				"east": {"uv": [3.25, 7.25, 6.5, 6.25], "texture": "#main"},
+				"south": {"uv": [3.25, 6.25, 6.5, 5.25], "texture": "#main"},
+				"west": {"uv": [3.25, 5.25, 6.5, 4.25], "texture": "#main"},
+				"down": {"uv": [3.25, 3.25, 6.5, 0], "texture": "#main"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.2, 0.2, 0.2]
+		},
+		"ground": {
+			"scale": [0.1, 0.1, 0.1]
+		},
+		"gui": {
+			"rotation": [20, 135, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"scale": [1.6, 1.6, 1.6]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 0, -16],
+			"scale": [2, 2, 2]
+		}
+	}
+}

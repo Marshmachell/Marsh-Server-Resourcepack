@@ -1,0 +1,12 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "marsh:item/multiverse_portal",
+    "tints": [
+      {
+        "type": "minecraft:dye",
+        "default": -353749
+      }
+    ]
+  }
+}
