@@ -3,6 +3,10 @@
         {
             "type": "reference",
             "id": "marsh:include/chat/discord"
+        },
+        {
+            "type": "reference",
+            "id": "marsh:include/chat/world"
         }
     ]
 }

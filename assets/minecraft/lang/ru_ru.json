@@ -26,6 +26,9 @@
     "marsh.item.armored_white_harness": "Бронированная белая упряжь",
     "marsh.item.armored_yellow_harness": "Бронированная жёлтая упряжь",
 
+    "marsh.chat.global.nickname_hover": "Временная метка: %s\nНажмите чтобы написать в ЛС",
+    "marsh.chat.url": "ссылка",
+
     "marsh.advancements.musician.root.title": "Музыкант",
     "marsh.advancements.musician.root.description": "Заполучите мешок музыканта",
     

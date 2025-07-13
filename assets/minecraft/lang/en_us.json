@@ -26,6 +26,9 @@
     "marsh.item.armored_white_harness": "Armored White Harness",
     "marsh.item.armored_yellow_harness": "Armored Yellow Harness",
 
+    "marsh.chat.global.nickname_hover": "Timestamp: %s\nClick to send DM",
+    "marsh.chat.url": "link",
+
     "marsh.advancements.musician.root.title": "Musician",
     "marsh.advancements.musician.root.description": "Obtain Musician's Bundle",
     

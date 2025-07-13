@@ -2,10 +2,10 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "marsh:font/chat/discord.png",
+            "file": "marsh:font/chat/world.png",
             "ascent": 7,
             "height": 8,
-            "chars": ["\u0001"]
+            "chars": ["\u0002"]
         }
     ]
 }
