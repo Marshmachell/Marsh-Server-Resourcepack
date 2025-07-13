@@ -1,4 +1,12 @@
 {
+    "marsh.dialog.rules.title": "Главные правила Сервера Марша. Сезон 0",
+    "marsh.dialog.rules.yes": "Принимаю",
+    "marsh.dialog.rules.body.0": "Нажимая кнопку \"%s\" Вы соглашаетесь со следующими правилами:",
+    "marsh.dialog.rules.body.1": "1. Не гриферить",
+    "marsh.dialog.rules.body.2": "2. Не читерить",
+    "marsh.dialog.rules.body.3": "3. Не воровать",
+    "marsh.dialog.rules.body.4": "4. Не быть фриком",
+
     "marsh.item.musician_bundle": "Мешок музыканта",
     "marsh.item.straw_hat": "Соломенная шляпа",
     "marsh.item.cowboy_hat": "Ковбойская шляпа",
@@ -27,7 +35,7 @@
     "marsh.item.armored_yellow_harness": "Бронированная жёлтая упряжь",
 
     "marsh.chat.global.nickname_hover": "Временная метка: %s\nНажмите чтобы написать в ЛС",
-    "marsh.chat.url": "ссылка",
+    "marsh.chat.url": "(ссылка)",
 
     "marsh.advancements.musician.root.title": "Музыкант",
     "marsh.advancements.musician.root.description": "Заполучите мешок музыканта",

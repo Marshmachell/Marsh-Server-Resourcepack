@@ -1,4 +1,12 @@
-{
+{    
+    "marsh.dialog.rules.title": "Main rules of Marsh's Server. Season 0",
+    "marsh.dialog.rules.yes": "Agree",
+    "marsh.dialog.rules.body.0": "By pressing the \"%s\" button, you agree with the following rules:",
+    "marsh.dialog.rules.body.1": "1. Do not griefing",
+    "marsh.dialog.rules.body.2": "2. Do not cheating",
+    "marsh.dialog.rules.body.3": "3. Do not stealing",
+    "marsh.dialog.rules.body.4": "4. Do not be a freak",
+
     "marsh.item.musician_bundle": "Musician's Bundle",
     "marsh.item.straw_hat": "Straw Hat",
     "marsh.item.cowboy_hat": "Cowboy Hat",
@@ -27,7 +35,7 @@
     "marsh.item.armored_yellow_harness": "Armored Yellow Harness",
 
     "marsh.chat.global.nickname_hover": "Timestamp: %s\nClick to send DM",
-    "marsh.chat.url": "link",
+    "marsh.chat.url": "(link)",
 
     "marsh.advancements.musician.root.title": "Musician",
     "marsh.advancements.musician.root.description": "Obtain Musician's Bundle",
