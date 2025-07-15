@@ -1,7 +1,5 @@
 {
-	"credit": "Made by Falanta Fantomo with Blockbench",
 	"textures": {
-		"particle": "marsh:item/armor/umbrella_hat/model",
 		"main": "marsh:item/armor/umbrella_hat/model"
 	},
 	"elements": [
@@ -17,25 +15,25 @@
 			}
 		},
 		{
-			"from": [1.5, 11, 1.5],
-			"to": [14.5, 15, 14.5],
+			"from": [0.5, 11, 0.5],
+			"to": [15.5, 15, 15.5],
 			"faces": {
-				"north": {"uv": [0, 3.25, 3.25, 4.25], "texture": "#main"},
-				"east": {"uv": [0, 6.25, 3.25, 7.25], "texture": "#main"},
-				"south": {"uv": [0, 5.25, 3.25, 6.25], "texture": "#main"},
-				"west": {"uv": [0, 4.25, 3.25, 5.25], "texture": "#main"},
-				"up": {"uv": [0, 0, 3.25, 3.25], "texture": "#main"}
+				"north": {"uv": [0, 3.75, 3.75, 4.75], "texture": "#main"},
+				"east": {"uv": [0, 6.75, 3.75, 7.75], "texture": "#main"},
+				"south": {"uv": [0, 5.75, 3.75, 6.75], "texture": "#main"},
+				"west": {"uv": [0, 4.75, 3.75, 5.75], "texture": "#main"},
+				"up": {"uv": [0, 0, 3.75, 3.75], "texture": "#main"}
 			}
 		},
 		{
-			"from": [1.5, 15, 1.5],
-			"to": [14.5, 11, 14.5],
+			"from": [0.5, 15, 0.5],
+			"to": [15.5, 11, 15.5],
 			"faces": {
-				"north": {"uv": [3.25, 4.25, 6.5, 3.25], "texture": "#main"},
-				"east": {"uv": [3.25, 7.25, 6.5, 6.25], "texture": "#main"},
-				"south": {"uv": [3.25, 6.25, 6.5, 5.25], "texture": "#main"},
-				"west": {"uv": [3.25, 5.25, 6.5, 4.25], "texture": "#main"},
-				"down": {"uv": [3.25, 3.25, 6.5, 0], "texture": "#main"}
+				"north": {"uv": [3.75, 4.75, 7.5, 3.75], "texture": "#main"},
+				"east": {"uv": [3.75, 7.75, 7.5, 6.75], "texture": "#main"},
+				"south": {"uv": [3.75, 6.75, 7.5, 5.75], "texture": "#main"},
+				"west": {"uv": [3.75, 5.75, 7.5, 4.75], "texture": "#main"},
+				"down": {"uv": [3.75, 3.75, 7.5, 0], "texture": "#main"}
 			}
 		}
 	],

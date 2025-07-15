@@ -2,8 +2,7 @@
 	"credit": "Made by Falanta Fantomo with Blockbench",
 	"textures": {
 		"main": "marsh:item/armor/cowboy_hat/model",
-		"tint": "marsh:item/armor/cowboy_hat/model_tint",
-		"particle": "cowboy_tint"
+		"tint": "marsh:item/armor/cowboy_hat/model_tint"
 	},
 	"elements": [
 		{

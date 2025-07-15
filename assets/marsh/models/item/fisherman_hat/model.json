@@ -1,8 +1,7 @@
 {
 	"credit": "Made by Falanta Fantomo with Blockbench",
 	"textures": {
-		"main": "marsh:item/armor/fisherman_hat/model",
-		"particle": "marsh:fisherman_hat"
+		"main": "marsh:item/armor/fisherman_hat/model"
 	},
 	"elements": [
 		{

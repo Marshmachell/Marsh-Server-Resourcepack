@@ -1,7 +1,6 @@
 {
 	"credit": "Made by Falanta Fantomo with Blockbench",
 	"textures": {
-		"particle": "marsh:item/armor/straw_hat/model",
 		"main": "marsh:item/armor/straw_hat/model"
 	},
 	"elements": [
