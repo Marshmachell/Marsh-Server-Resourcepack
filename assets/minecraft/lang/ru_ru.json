@@ -1,4 +1,10 @@
 {
+    "marsh.system.restart": "Перезагрузка сервера через %s %s!",
+    "marsh.system.restarting": "Перезагрузка сервера..",
+    "marsh.system.restart.minutes": "минут",
+    "marsh.system.restart.seconds": "секунд",
+    "marsh.system.restart.many": "ы",
+
     "marsh.dialog.rules.title": "Главные правила Сервера Марша. Сезон 0",
     "marsh.dialog.rules.yes": "Принимаю",
     "marsh.dialog.rules.body.0": "Нажимая кнопку \"%s\" Вы соглашаетесь со следующими правилами:",

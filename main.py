@@ -59,7 +59,7 @@ with zipfile.ZipFile(f"{RESOURCEPACK_NAME}", "w", zipfile.ZIP_DEFLATED) as zipf:
 
 HASH = sha1(f"{RESOURCEPACK_NAME}")
 print(f"ZIP created: {RESOURCEPACK_NAME}\nSHA1 generated: {HASH}")
-sha1_update(SERVER_PROPERTIES_PATH, HASH)
+# sha1_update(SERVER_PROPERTIES_PATH, HASH)
 
 # Выполняем Git-команды
 print("\nВыполняем Git-команды...")

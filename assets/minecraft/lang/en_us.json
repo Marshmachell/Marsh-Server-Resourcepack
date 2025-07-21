@@ -1,4 +1,10 @@
 {    
+    "marsh.system.restart": "Server restarting will be in %s %s!",
+    "marsh.system.restarting": "Server is restarting..",
+    "marsh.system.restart.minutes": "minutes",
+    "marsh.system.restart.seconds": "seconds",
+    "marsh.system.restart.many": "",
+
     "marsh.dialog.rules.title": "Main rules of Marsh's Server. Season 0",
     "marsh.dialog.rules.yes": "Agree",
     "marsh.dialog.rules.body.0": "By pressing the \"%s\" button, you agree with the following rules:",
