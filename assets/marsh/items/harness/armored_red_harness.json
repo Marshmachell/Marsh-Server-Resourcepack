@@ -1,6 +1,6 @@
 {
     "model": {
         "type": "minecraft:model",
-        "model": "marsh:item/harness/armored_red_harness"
+        "model": "marsh:item/harness/armored/armored_red_harness"
     }
 }

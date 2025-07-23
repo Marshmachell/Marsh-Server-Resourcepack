@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "marsh:item/music_disc_scheming_weasel"
+    "model": "marsh:item/music_disc/music_disc_scheming_weasel"
   }
 }

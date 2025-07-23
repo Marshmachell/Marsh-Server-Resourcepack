@@ -6,5 +6,21 @@
                 "stream": true
             }
         ]
+    },
+    "three_little_birds": {
+        "sounds": [
+            {
+                "name": "marsh:records/three_litle_birds",
+                "stream": true
+            }
+        ]
+    },
+    "i_shot_the_sheriff": {
+        "sounds": [
+            {
+                "name": "marsh:records/i_shot_the_sheriff",
+                "stream": true
+            }
+        ]
     }
 }

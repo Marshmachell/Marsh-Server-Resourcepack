@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "marsh:item/armor/harness/hawaii_shirt/light_blue_hawaii_shirt"
+  }
+}
