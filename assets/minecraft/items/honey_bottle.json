@@ -1,0 +1,160 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": "Absent",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/absent_bottle"
+        }
+      },
+      {
+        "when": "Alcohol",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/alcohol_bottle"
+        }
+      },
+      {
+        "when": "Beer",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/beer_bottle"
+        }
+      },
+      {
+        "when": "Pivo",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/beer_bottle"
+        }
+      },
+      {
+        "when": "Cider",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/cider_bottle"
+        }
+      },
+      {
+        "when": "Cognac",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/cognac_bottle"
+        }
+      },
+      {
+        "when": "Flower wine",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/flower_wine_bottle"
+        }
+      },
+      {
+        "when": "Grog",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/grog_bottle"
+        }
+      },
+      {
+        "when": "Koumiss",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/koumiss_bottle"
+        }
+      },
+      {
+        "when": "Cumis",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/koumiss_bottle"
+        }
+      },
+      {
+        "when": "Cumiz",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/koumiss_bottle"
+        }
+      },
+      {
+        "when": "Kumis",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/koumiss_bottle"
+        }
+      },
+      {
+        "when": "Mead",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/mead_bottle"
+        }
+      },
+      {
+        "when": "Mulled wine",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/mulled_wine_bottle"
+        }
+      },
+      {
+        "when": "Rakia",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/rakia_bottle"
+        }
+      },
+      {
+        "when": "Rum",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/rum_bottle"
+        }
+      },
+      {
+        "when": "Tarkhuna",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/tarkhuna_bottle"
+        }
+      },
+      {
+        "when": "Tequila",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/tequila_bottle"
+        }
+      },
+      {
+        "when": "Vodka",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/vodka_bottle"
+        }
+      },
+      {
+        "when": "Whiskey",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/whiskey_bottle"
+        }
+      },
+      {
+        "when": "Wine",
+        "model": {
+          "type": "minecraft:model",
+          "model": "marsh:item/food/wine_bottle"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/honey_bottle"
+    }
+  }
+}
